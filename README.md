@@ -12,14 +12,21 @@ A lightweight React + Vite dashboard for practicing core component logic, prop h
 - [Vitest](https://vitest.dev/)
 - [Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 
+
 ---
 
-## 📦 Installation
+## ✅ Project Features
+- Build and test React components in isolation
 
-```bash
-git clone https://github.com/YOUR_USERNAME/react-dashboard.git
-cd react-dashboard
-npm install
+- Use Tailwind to rapidly visualize changes
+
+- Practice daily coding with props, state, events
+
+- Write unit tests with Vitest and React Testing Library
+
+- Add new components quickly using this structure
+
+
 
 ---
 

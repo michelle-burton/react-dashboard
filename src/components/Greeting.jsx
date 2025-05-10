@@ -1,0 +1,1 @@
+//Create a Greeting.jsx component (traditional function)
